@@ -19,8 +19,8 @@ Input parameters
 -f	<Filter table threshold>
 -v 	<Include to visualize the CT with volume rendering>
 
-Example
-./dicomToMHD -i ~/camma/svn/camma/code/projects/cpp/xaware/xaware_transfer/dicomToMHD/input/Porc/DICOM -o PORC -f -v -c
+Example for PORC (DICOM files)
+./dicomToMHD -i ~/myFolder/dicomToMHD/input/Porc/DICOM -o PORC -f -v -c
 
 Output
 PORC.mhd
