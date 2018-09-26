@@ -1,7 +1,6 @@
 **************** DICOM to MHD
 
 author: Nicolas Loy Rodas
-contact: nicolas.loyrodas@gmail.com
 
 Application to transform a CT in DICOM format to an MHD file compatible with XAware and GGEMS simulation.
 
